@@ -27,7 +27,7 @@ gem 'bootstrap-sass'
 # gem 'bcrypt', '~> 3.1.7'
 
 
-grou :development, :test do
+group :development, :test do
 	gem 'sqlite3'
 end
 	
